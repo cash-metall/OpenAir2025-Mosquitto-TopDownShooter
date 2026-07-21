@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.20.0.0">
+	<node type="ObjectDummy" id="1844546495" name="ObjectDummy_1">
+		<body type="BodyDummy" id="1478884946" frozen="0">
+			<shape type="ShapeBox" id="243046269" name="ShapeBox">
+				<size>5 1 1</size>
+			</shape>
+		</body>
+		<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1489256019" immovable="1" name="Box_1">
+			<mesh_name>guid://f14f7dbeb61572eeab60be390a0a61171fffb397</mesh_name>
+			<surface name="box" intersection="1" material="51b727909707f4c9f91278a16d39f2d8313e85e6"/>
+			<transform>1 0 0 0.0 0 1 0 0.0 0 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObstacleBox" id="979394644" name="ObstacleBox">
+			<size>5 1 1</size>
+			<transform>1.00000011921 0 0 0.0 0 1 0 0.0 0 0 1.00000011921 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bit_mask_names>
+	<intersection>
+		<name index="3">gun</name>
+		<name index="1">player</name>
+		<name index="0">scene</name>
+		<name index="2">enemy</name>
+	</intersection>
+</bit_mask_names>

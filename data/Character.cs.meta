@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.20.0.0">
+	<guid>09d3eb94f58ee450152808b7da12da6923dca665</guid>
+	<type>component</type>
+	<hash>533bbad2</hash>
+	<runtimes>
+		<runtime id="09d3eb94f58ee450152808b7da12da6923dca665" name="Character.cs" link="0"/>
+		<runtime id="140eb41297d86e735315f33dfb3213a6e37b387b" name="Character.prop" link="1" type="4"/>
+	</runtimes>
+</asset>
